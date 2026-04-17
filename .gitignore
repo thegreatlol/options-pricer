@@ -1,0 +1,19 @@
+# virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# generated figures (optional — remove these lines if you want to commit your PNGs)
+
+
+# OS clutter
+.DS_Store
+Thumbs.db
